@@ -1,0 +1,404 @@
+Aula 11: Preparação do Ambiente para o Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+Chegou o momento de comerçarmos a conhecer uma nova linguagem de programação, o Dart.
+O Dart, uma linguagem poderosa e versátil que nos permitirá desenvolver uma ampla gama de aplicativos e projetos. 
+Antes de mergulharmos nos códigos e algoritmos, é importante preparar nosso ambiente de desenvolvimento para garantir uma experiência de aprendizado suave e produtiva.
+Olá, eu sou o professor Rildo Oliveira e iremos preparar nosso ambiente para o Dart
+
+
+Take: 02
+
+-->computador<-- Mostrar a instalação do sdk dart e suas variveis de sistema
+
+Take: 03
+Recapitulando
+
+Após concluir a preparação do ambiente para o Dart, estamos preparados para iniciar nossa jornada na programação. 
+Com todas as ferramentas à disposição, estamos prontos para explorar os conceitos fundamentais de Dart e começar a escrever código.
+Ao longo de nossa disciplina, enfrentaremos desafios, aprenderemos novas habilidades e nos tornaremos programadores de verdade.
+Isso é só o começo, e nos próximos encontros mergulharemos mais fundo nos conceitos de Dart, aplicando nosso conhecimento em projetos práticos e desafios estimulantes. 
+Estou animado para ver o progresso que faremos juntos. 
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+Aula 12:Conceitos Básicos em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+Para esta aula iremos entrar nos fundamentos essenciais do Dart,essa linguagem de programação moderna, que servirá como alicerce para nossas futuras explorações no mundo
+ do desenvolvimento de software. 
+ Dart, uma linguagem versátil e poderosa, oferece uma ampla gama de recursos para desenvolvedores de todos os níveis de habilidade. 
+ Veremos os princípios básicos que moldam a estrutura e a sintaxe de Dart, preparando-nos para escrever código claro, eficiente e funcional. 
+
+
+Olá, eu sou o professor Rildo Oliveira e iremos explorar os conceitos fundamentais da linguagem Dart
+
+
+Take: 02
+
+-->computador<--  veremos codigo de variaveis e operadores
+
+Take: 03
+Recapitulando
+
+Agora que vimos os Conceitos Básicos em Dart, começamos a criar nossa base de conhecimento desta linguagem. 
+Exploramos em Dart, desde variáveis e tipos de dados até operadores. 
+Espero que vocês se sintam mais confiantes em sua compreensão dos conceitos básicos e 
+que se sintam prontos para praticarem o que foi visto ate agora.
+Lembre-se de que a prática é a chave para o sucesso, então continue praticando e explorando, e em breve estaremos prontos para avançar para desafios mais complexos. 
+
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 13: Estruturas de Controle de Fluxo em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+Todo e qualquer sistema funciona atraves de dados, e estes dados devem ter direcionamento.
+Então temos de entender sobre Estruturas de Controle de Fluxo em Dart! 
+Exploraremos como controlar o fluxo de execução do nosso código usando estruturas de decisão e repetição. 
+Essas estruturas são fundamentais para qualquer programa, pois nos permitem tomar decisões com base em condições específicas e repetir a execução de blocos de código de acordo 
+com determinadas regras. 
+
+
+Olá, eu sou o professor Rildo Oliveira e vamos aprender sobre estruturas de controle de fluxo
+
+
+Take: 02
+
+-->computador<-- ver codigo com estrutura de controle
+
+Take: 03
+Recapitulando
+
+À medida que concluímos nosso aprendizado sobre Estruturas de Controle de Fluxo em Dart, espero que tenham adquirido um entendimento sólido sobre como manipular
+ o fluxo de execução do código em seus programas. Ao dominar essas estruturas, vocês estarão preparados para criar algoritmos mais complexos e eficientes, 
+ capazes de lidar com uma variedade de situações e condições. 
+ Lembrem-se de praticar regularmente e experimentar diferentes cenários para aprimorar suas habilidades de programação. 
+
+ 
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 14: Estruturas de Repetição em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+Praticar!Praticar!Praticar!Praticar!
+A repetição nos leva a perfeição! Se é assim então vamos entender um pouco sobre
+Estruturas de Repetição em Dart! Vamos explorar os conceitos fundamentais da programação: a capacidade de executar blocos de código repetidamente. 
+As estruturas de repetição são poderosas ferramentas que permitem automatizar tarefas, processar grandes conjuntos de dados e resolver uma variedade 
+de problemas de maneira eficiente.
+
+
+Olá, eu sou o professor Rildo Oliveira e iremos conhecer as estruturas de repetição
+
+
+Take: 02
+
+-->computador<--  Codigo de estrutura de repetição
+
+Take: 03
+Recapitulando
+
+Espero que o que falamos sobre Estruturas de Repetição em Dart tenha sido esclarecedor e enriquecedor para vocês! 
+Agora compreendemos como automatizar tarefas e processar dados de forma eficiente. 
+Em nosso material complementar possui atividades para vocês praticarem, então façam isso para não se perderem em meio a tanta informação.
+Continuem praticando e explorando as possibilidades que as estruturas de repetição oferecem.
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 15: Listas e Coleções em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+
+Já perceberam como a grande maioria de nossas anotações são listas?
+Isso mostra a importancia dessa estrutura de dados.
+Então devemos mergulhar no fascinante mundo das listas e coleções em Dart. 
+Esses conceitos são fundamentais para manipular e organizar conjuntos de dados em nossos programas, tornando-os mais dinâmicos e eficientes. 
+devemos explorar como criar, acessar e manipular listas, conjuntos e mapas em Dart, além de discutir suas aplicações práticas em diferentes cenários de programação.
+
+
+Olá, eu sou o professor Rildo Oliveira e iremos conhecer as listas e coleções em Dart
+
+
+Take: 02
+
+-->computador<-- Mostrar codigo de listas e coleções
+
+Take: 03
+Recapitulando
+
+Para as listas e coleções em Dart, é importante ressaltar que essas estruturas desempenham um papel fundamental no desenvolvimento de aplicativos eficientes e dinâmicos.
+ As listas permitem armazenar e manipular conjuntos de elementos de forma ordenada, enquanto as coleções, como conjuntos e mapas, oferecem ainda mais flexibilidade ao lidar com dados.
+Com as listas, podemos organizar informações de maneira sequencial, facilitando o acesso e a manipulação dos elementos. 
+Além disso, as coleções ampliam nossas possibilidades, permitindo a representação de conjuntos de elementos únicos (conjuntos) ou pares chave-valor (mapas), adequando-se a uma 
+variedade de necessidades de programação.
+
+É essencial compreender o funcionamento e a aplicação dessas estruturas para desenvolver soluções mais eficientes e elegantes em Dart. 
+Ao explorar esses conceitos em profundidade e praticar sua utilização em projetos reais, você estará preparado para enfrentar desafios mais complexos e criar aplicativos mais 
+robustos e funcionais.
+
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 16: Funções em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+Em sua curiosidade já deve ter olhado a pasta de instalação de algum programa e percebeu a grande quantidade de arquivos que existem ali.
+Ali encontramos a construção do software usando modulos. Um código deve ter pequenos pedaços que formam o todo e esses pedaços normamente são as tais funções.
+A compreensão das funções é essencial para qualquer programador, pois elas nos proporcionam uma maneira elegante de dividir nosso código em partes menores e mais gerenciáveis,
+ promovendo a modularidade, a reutilização e a manutenção do código.
+
+
+Olá, eu sou o professor Rildo Oliveira e preparem-se para aprofundar seus conhecimentos e dominar o poder das funções em Dart.
+
+
+Take: 02
+
+-->computador<-- mostrar codigos exemplos com funções
+
+Take: 03
+Recapitulando
+
+Concluímos este nosso primeiro momento sobre às funções em Dart, compreendendo sua importância na programação e sua aplicabilidade em diferentes contextos. 
+Ao dominar o conceito de funções, os desenvolvedores podem escrever código mais organizado, modular e fácil de manter. 
+Além disso, as funções permitem a reutilização de código e a execução de tarefas específicas de forma eficiente. 
+Este conhecimento servirá como base para explorar conceitos mais avançados em Dart e desenvolver aplicações mais complexas no futuro. 
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 17: Orientação a Objetos em Dart 
+
+Take: 01
+Introdução:
+
+o professor fala: 
+
+As classes são componentes importantes no paradigma da orientação ao objeto, e isso nos permite modelar objetos do mundo real de forma eficiente e organizada. 
+Ao entender os conceitos básicos de classe, você estará construindo uma base sólida para compreender como estruturar e organizar seu código de maneira mais eficaz.
+
+Olá, eu sou o professor Rildo Oliveira e iremos conhecer como funcionam as classes na linguagem dart
+
+Take: 02
+A orientação a objetos é um paradigma de programação que se baseia na ideia de organizar o código em torno de "objetos", que podem conter dados na forma de campos (também conhecidos como atributos ou propriedades) e procedimentos na forma de funções (métodos). Esses objetos são instâncias de classes, que funcionam como modelos ou blueprints para criar objetos.
+
+As classes, portanto, são estruturas fundamentais na programação orientada a objetos. Elas definem o comportamento e as características dos objetos que serão criados a partir delas. Uma classe pode conter:
+
+Atributos: Variáveis que armazenam dados associados a cada objeto.
+Métodos: Funções que definem o comportamento dos objetos e podem manipular seus atributos.
+
+Vamos agora visualizar em uma codificação
+
+Take:  03
+
+-->computador<-- mostrar codigos com classes
+
+Take: 04
+Recapitulando
+
+Ao dominar os conceitos básicos da orientação ao objeto, você está preparado para criar estruturas mais complexas e organizar seu código de forma mais eficiente.
+ As classes permitem modelar objetos do mundo real de maneira precisa e reutilizável, proporcionando flexibilidade e escalabilidade ao seu código.
+
+Mas para compreender por completo o paradigma da orientação ao objeto , continue praticando e explorando novos conceitos à medida que avança em sua jornada de aprendizado em Dart. 
+Com uma compreensão sólida dos fundamentos das classes, você estará pronto para enfrentar desafios mais complexos e construir aplicativos incríveis. 
+
+Take: 05
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 18: Compreendendo a orientação a objetos
+
+Take: 01
+Introdução:
+
+o professor fala: 
+
+Com o uso da orientação a objeto temos a redução na quantidade de linha de codigo. Para isso devemos entender alguns conceitos.
+vamos explorar conceitos avançados de programação orientada a objetos: herança, polimorfismo e encapsulamento. 
+Esses conceitos são fundamentais para criar código mais eficiente, modular e fácil de dar manutenção.
+
+Olá, eu sou o professor Rildo Oliveira e iremos continuar nosso estudo no paradigma da orientação ao objeto
+
+
+Take: 02
+Vamos compreender então os coceitos base da orientação ao objeto, a herança, polimorfismo e encapsulamento.
+
+Herança é um princípio fundamental da programação orientada a objetos que permite que uma classe herde características (atributos e métodos) de outra classe. 
+Isso significa que uma classe filha pode aproveitar o comportamento e a estrutura da classe pai, adicionando ou modificando funcionalidades conforme necessário. 
+A herança promove a reutilização de código e ajuda a organizar hierarquias de classes de forma lógica e intuitiva.
+
+Polimorfismo é outro conceito importante que se baseia na ideia de que objetos de classes diferentes podem ser tratados de maneira uniforme. 
+Isso significa que um método pode ter diferentes comportamentos dependendo do tipo do objeto que o invoca. 
+O polimorfismo permite escrever código mais flexível e genérico, tornando-o mais adaptável a diferentes situações e requisitos.
+
+Por fim, o encapsulamento é um princípio que consiste em ocultar os detalhes de implementação de uma classe e expor apenas uma interface pública. 
+Isso significa que os atributos de uma classe são protegidos e acessados apenas por métodos específicos, garantindo a integridade dos dados e facilitando a manutenção do código.
+
+Vamos ver um pouco disso tudo em um codigo dart.
+
+
+Take: 03
+-->computador<-- mostrar codigo exemplos com herança e polimorfismo
+
+Take: 04
+Recapitulando
+
+Então conseguimos entender a base da programação orientada a objetos: herança, polimorfismo e encapsulamento. 
+Lembrando que,a herança permite reutilizar código, o polimorfismo flexibiliza a execução de métodos e o encapsulamento protege os dados. 
+Atraves destes conceitos conseguiremos criar sistemas flexíveis e de fácil manutenção. 
+
+Take: 05
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 19: Manipulação de Strings em Dart
+
+Take: 01
+Introdução:
+
+o professor fala: 
+
+Caracteres, textos e praticamente tudo pode ser visto como string.
+Mas como usar essa tal string em codigo dart?
+Vamos aprender então, como criar, manipular e formatar strings para atender às necessidades específicas de nossos programas. 
+
+Olá, eu sou o professor Rildo Oliveira e iremos conhcer as strings
+
+
+Take: 02
+Strings em Dart são sequências de caracteres que representam texto. Elas são amplamente utilizadas para armazenar e manipular informações de texto em aplicativos Dart.
+ As strings podem conter letras, números, símbolos e até mesmo caracteres especiais, como espaços em branco e pontuação.
+
+Em Dart, as strings podem ser definidas usando aspas simples (' ') ou aspas duplas (" "). 
+Isso oferece flexibilidade ao programador para criar strings que contêm caracteres especiais ou aspas dentro do próprio texto. 
+Além disso, Dart oferece várias funções e métodos para manipular strings, como concatenação, interpolação, quebra de linha, busca de padrões e muito mais.
+
+Vamos conhecer o uso de strings em dart
+
+Take: 03
+-->computador<-- codigo dart usando strings
+
+Take: 03
+Recapitulando
+
+ O uso de strings em Dart é essencial em uma variedade de cenários, incluindo a exibição de mensagens para o usuário, a manipulação de dados de entrada e saída,
+ a formatação de texto para exibição em interfaces gráficas e a comunicação com APIs e serviços externos.
+ Dominar o uso de strings em Dart é fundamental para desenvolver aplicativos robustos e eficientes nesta linguagem de programação.
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ Aula 20: Construindo um projeto
+
+Take: 01
+Introdução:
+
+o professor fala: 
+
+Chegou o momento de nos testar na construção de um projeto usando nosso aprendizado em dart.
+Vamos criar um pequeno projeto que utilize conceito vistos na linguagem dart e gerar um projeto real.
+
+fale que iremos construir um projeto que irá abranger os conceitos de variaveis, listas , funções, classes , herança, encapsulamento e polimorfismo
+
+Olá, eu sou o professor Rildo Oliveira e construir um mini sistema
+
+
+Take: 02
+
+-->computador<-- mostre a construção do projeto
+
+Take: 03
+Recapitulando
+
+Agora que temos uma base sólida em Dart, estamos prontos para dar o próximo passo emocionante em nossa jornada de desenvolvimento de software: Flutter.
+Nos próximos encontros, mergulharemos no mundo do desenvolvimento de aplicativos móveis multiplataforma com Flutter, aproveitando os conhecimentos 
+adquiridos em Dart para criar interfaces de usuário elegantes e funcionais.
+
+Com Flutter, seremos capazes de transformar nossas ideias em aplicativos práticos e interativos, aproveitando uma ampla gama de recursos e widgets poderosos oferecidos pelo framework.
+Estou ansioso para explorar esse novo território com vocês e continuar expandindo nossos conhecimentos e habilidades em programação de maneira divertida e desafiadora. 
+
+Take: 04
+Final
+Para fixar o conteúdo estudado, acessem a plataforma e leiam o texto de aprofundamento disponível. 
+Não se esqueçam também de responder às questões do quiz e participar do fórum,
+ respondendo à questão aberta e interagindo com pelo menos, dois outros colegas.
+ Até a próxima aula!
+ 
+ 
+ ----------------------------------------------------------------------
+ 
