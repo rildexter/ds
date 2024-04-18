@@ -1,0 +1,20 @@
+{
+    "meta": {
+      "currentPage": 1,
+      "itemsPerPage": 1,
+      "totalOfItems": 1,
+      "totalOfPages": 1
+    },
+    "result": {
+      "street": "Praça da Sé",
+      "complement": "lado ímpar",
+      "district": "Sé",
+      "districtId": 1,
+      "city": "São Paulo",
+      "cityId": 1,
+      "ibgeId": 3550308,
+      "state": "São Paulo",
+      "stateShortname": "SP",
+      "zipcode": "01001000"
+    }
+  }

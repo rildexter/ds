@@ -1,0 +1,25 @@
+Mostrar widget inspector e widget tree no vscode
+
+resolvendo dependencias:
+
+atualiza dependencias
+flutter pub get
+
+mostra dependencias velhas
+flutter pub outdated
+
+
+Atualiza as depencias para as mais atuais
+flutter pub upgrade --major-versions
+
+Atualiza flutter
+flutter upgrade
+
+limpeza de cache
+flutter clean
+
+mostrar a versão android
+configurações/sobre o dispositivo/versão do android/ versão do android (clique varias vezes)
+
+Ativar modo desenvolvedor
+configurações/sobre o dispositivo/numero da versão (clique varias vezes)
