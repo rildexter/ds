@@ -1,0 +1,9 @@
+Todos os arquivos que fazem parte deste repositório fizeram parte das aulas ou apostila da disciplina de Programação de Dispositivos Móveis.
+Pasta de aulas não existentes quer dizer que não houve codificação que necessite estar neste repositório;
+Aplicativos criados em aula estão completos em sua ultima versão na pasta de aplicativos de aula;
+Nas pastas de aula que contem codificação teremos somente os arquivos que sofreram alguma modificação duarante a aula;
+
+ Obs. O Flutter é uma ferramenta que recebe atualizações constantes e por este motivo quando acessar estes arquivos alguns deverão estar desatualizados.
+Como ainda não tenho poderes de prever o futuro e estou a falar do passado, logo não poderei ajudar nestas atualizações. Mas como conselho de desenvolvedor, vá até a documentação da ferramenta, procure foruns de curiosos e até mesmo recorra a ajuda de IAs.
+
+Boa sorte em sua caminhada!
